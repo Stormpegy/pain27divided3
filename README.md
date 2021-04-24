@@ -5,6 +5,7 @@ takes a sparkfun promicro (or clone) and 2x 8 pin + 2-3x 2 pin 2.54mm spacing sc
 you'll also need some M2 screws / standoffs and mx style keyswitches of your choice, i recommend gateron as they're some of the cheapest and you'll regret building this board just a little less  
 keycaps? maybe  
 
+![pain27divided3](/img/kicad_xmMTUktZIp.png)
 
 the og meme is here https://github.com/uuupah/pain27  
 
