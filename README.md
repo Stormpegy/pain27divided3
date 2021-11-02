@@ -12,7 +12,7 @@ Q P M and the left hand 2 port screw terminal are the culprits, feel free to spa
 
 ![pain27divided3](/img/kicad_xmMTUktZIp.png)
 
-[Firmware is here :)](ttps://github.com/Stormpegy/qmk_firmware/tree/stormpegy/keyboards/stormpegy/pain273) 
+[Firmware is here :)](https://github.com/Stormpegy/qmk_firmware/tree/stormpegy/keyboards/stormpegy/pain273) 
 
 [the og meme is here](https://github.com/uuupah/pain27) 
 
